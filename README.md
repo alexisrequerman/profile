@@ -13,8 +13,6 @@ Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 
 ### Projects
 
-```markdown
-
 - [CLTV36 CMS Website](http://www.cltv36.tv/)
 - [CLTV36 Citizen Journalism Website](http://www.cltv36.tv/maymalasakitako)
 - [CLTV36 Android Livestreaming App](https://play.google.com/store/apps/details?id=com.art.cltv36.livestream&hl=en)
@@ -22,8 +20,6 @@ Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 - CLTV36 Attendance Monitoring System for TOC
 - CLTV36 CSD Service Request System
 - RW 95.1 FM Android Livestreaming App
-
-```
 
 ### Contact
 
