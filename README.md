@@ -27,4 +27,4 @@ Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 
 ### Contact
 
-Email Me (mailto:alexisrequerman@gmail.com)
+Email Me (alexisrequerman@gmail.com)
