@@ -2,13 +2,16 @@
 
 Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 
-You can use the [editor on GitHub](https://github.com/alexisrequerman/amrequerman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Web Development
+- Android App Development
+- iOS App Development
+- Systems Development
+- Systems Administration
+- Technical Support
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Programming Laguages
 
 ```markdown
 Syntax highlighted code block
