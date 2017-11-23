@@ -1,4 +1,4 @@
-## Alexis Requerman
+# Alexis Requerman
 
 Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 
@@ -11,32 +11,20 @@ Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 - Systems Administration
 - Technical Support
 
-### Programming Laguages
+### Projects
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- CLTV36 CMS Website (http://www.cltv36.tv/)
+- CLTV36 Citizen Journalism Website (http://www.cltv36.tv/maymalasakitako)
+- CLTV36 Android Livestreaming App (https://play.google.com/store/apps/details?id=com.art.cltv36.livestream&hl=en)
+- CLTV36 iOS Livestreaming App (https://itunes.apple.com/us/app/cltv36-livestreaming/id1087254064?mt=8)
+- CLTV36 Attendance Monitoring System for TOC
+- CLTV36 CSD Service Request System
+- RW 95.1 FM Android Livestreaming App
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexisrequerman/amrequerman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email Me (mailto:alexisrequerman@gmail.com)
