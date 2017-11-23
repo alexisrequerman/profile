@@ -21,6 +21,4 @@ Computer Engineer | IT Practitioner | Web Developer | Gunpla Builder
 - CLTV36 CSD Service Request System
 - RW 95.1 FM Android Livestreaming App
 
-### Contact
-
-Do you have any questions or you want to hire me? [Email me](mailto:alexisrequerman@gmail.com).
+Do you have any questions or do you want to hire me? Email [me](mailto:alexisrequerman@gmail.com).
