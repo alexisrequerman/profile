@@ -5,11 +5,10 @@ Computer Engineer | IT Specialist
 ### CORE SKILLS
 
 1. Web Development
-2. Android App Development
-3. iOS App Development
 4. Systems Development
 5. Systems Administration
-6. Technical Support
+6. IT Technical Support
+7. TV Broadcasting Technology
 
 ### PROGRAMMING LANGUAGE
 
